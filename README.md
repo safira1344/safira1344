@@ -2,8 +2,8 @@
 
 
 - 🌱 Estou estudando back-end e front-end
-- 👯 Graduanda em Sistemas de Informação
-- 😄 Pronouns: ela/dela
+- 🫧 Graduanda em Sistemas de Informação
+- 🦋 Pronouns: ela/dela
 
 <div> 
  <div align="center">
