@@ -40,6 +40,7 @@
 [![VSCODE](https://img.shields.io/badge/vscode-3BA0E3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/safira1344)
 [![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/safira1344)
 [![NODEJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://github.com/safira1344)
+[![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/safira1344)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/safira1344)
 [![FONTAWESOME](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://github.com/safira1344)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/safira1344)
