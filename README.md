@@ -33,6 +33,7 @@
 ## DATABASES
 [![MYSQL](https://img.shields.io/badge/MySQL-3590CC?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/safira1344)
 [![SQLSERVER](https://img.shields.io/badge/sqlserver-262D38?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)](https://github.com/safira1344)
+[![MONGODB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://github.com/safira1344)
 
 ## TOOLS
 [![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=E02F26)](https://github.com/safira1344)
